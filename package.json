@@ -1,6 +1,6 @@
 {
   "name": "radial-progress-vue3",
-  "version": "0.0.2.1",
+  "version": "0.0.3",
   "description": "A highly customizable radial progress component for vue 3",
   "main": "dist/radial-progress-vue3.ssr.js",
   "browser": "dist/radial-progress-vue3.esm.js",
